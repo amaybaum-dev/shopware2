@@ -43,7 +43,7 @@
     "@shopware-ag/meteor-icon-kit": "5.1.0",
     "@shopware-ag/webpack-copy-after-build": "1.0.1",
     "@shopware-ag/webpack-kill-process-on-failed-build": "1.0.0",
-    "@shopware-ag/webpack-plugin-injector": "1.0.6",
+    "@shopware-ag/webpack-plugin-injector": "1.0.7",
     "@types/node": "18.15.10",
     "@types/uuid": "9.0.1",
     "@typescript-eslint/eslint-plugin": "5.57.0",
