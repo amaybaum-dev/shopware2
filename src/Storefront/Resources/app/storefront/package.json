@@ -46,7 +46,7 @@
     "stylelint-junit-formatter": "0.2.2",
     "terser-webpack-plugin": "5.3.6",
     "tiny-slider": "2.9.4",
-    "webpack": "5.75.0",
+    "webpack": "5.76.0",
     "webpackbar": "5.0.2"
   },
   "devDependencies": {
