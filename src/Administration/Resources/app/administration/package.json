@@ -84,7 +84,7 @@
     "postcss": "8.4.20",
     "puppeteer": "13.7.0",
     "stylelint-junit-formatter": "0.2.2",
-    "terser-webpack-plugin": "4.2.3",
+    "terser-webpack-plugin": "5.0.0",
     "ts-jest": "29.0.3",
     "ts-loader": "8.4.0",
     "twig": "1.15.4",
