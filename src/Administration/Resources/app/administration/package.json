@@ -76,7 +76,7 @@
     "inter-ui": "3.19.3",
     "jest-environment-jsdom": "29.5.0",
     "jest-jasmine2": "29.5.0",
-    "lighthouse": "9.6.8",
+    "lighthouse": "12.2.2",
     "lodash": "4.17.21",
     "md5-es": "1.8.2",
     "optimize-css-assets-webpack-plugin": "5.0.8",
