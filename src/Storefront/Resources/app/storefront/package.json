@@ -37,7 +37,7 @@
     "flatpickr": "4.6.13",
     "fs-extra": "11.1.0",
     "hammerjs": "2.0.8",
-    "history": "4.10.1",
+    "history": "5.0.0",
     "lighthouse": "9.2.0",
     "lodash": "4.17.21",
     "mini-css-extract-plugin": "2.7.2",
