@@ -60,7 +60,7 @@
     "apexcharts": "3.37.2",
     "app-module-path": "2.2.0",
     "axios": "0.27.2",
-    "babel-jest": "29.5.0",
+    "babel-jest": "29.6.0",
     "babel-plugin-require-context-hook": "1.0.0",
     "bottlejs": "2.0.1",
     "cookie-storage": "6.1.0",
