@@ -19,7 +19,7 @@
         "nuxt": "2.10.2",
         "pretty": "2.0.0",
         "prismjs": "1.17.1",
-        "sass": "1.51.0",
+        "sass": "1.52.0",
         "sass-loader": "8.0.2",
         "svg-inline-loader": "0.8.0",
         "twig": "1.13.3",
