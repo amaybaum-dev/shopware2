@@ -81,7 +81,7 @@
     "md5-es": "1.8.2",
     "optimize-css-assets-webpack-plugin": "5.0.8",
     "optional-chaining-codemod": "1.7.0",
-    "postcss": "8.4.20",
+    "postcss": "8.5.10",
     "puppeteer": "13.7.0",
     "stylelint-junit-formatter": "0.2.2",
     "terser-webpack-plugin": "4.2.3",
